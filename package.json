@@ -5,7 +5,7 @@
   "private": true,
   "packageManager": "pnpm@11.15.1",
   "description": "Hackable personal dotfiles managed with chezmoi",
-  "author": "sabertazimi <sabertazimi@gmail.com>",
+  "author": "sabertaz <sabertazimi@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

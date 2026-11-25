@@ -1,8 +1,8 @@
 # Dotfiles
 
 [![Author](https://img.shields.io/badge/author-sabertaz-lightgrey?style=for-the-badge)](https://github.com/sabertaz)
-[![LICENSE](https://img.shields.io/github/license/sabertazimi/dotfiles?style=for-the-badge)](https://raw.githubusercontent.com/sabertazimi/dotfiles/main/LICENSE)
-[![Code Size](https://img.shields.io/github/languages/code-size/sabertazimi/dotfiles?logo=visualstudiocode&style=for-the-badge)](https://github.com/sabertaz/dotfiles)
+[![LICENSE](https://img.shields.io/github/license/sabertaz/dotfiles?style=for-the-badge)](https://raw.githubusercontent.com/sabertaz/dotfiles/main/LICENSE)
+[![Code Size](https://img.shields.io/github/languages/code-size/sabertaz/dotfiles?logo=visualstudiocode&style=for-the-badge)](https://github.com/sabertaz/dotfiles)
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://github.com/archlinux)
 [![Niri](https://img.shields.io/badge/Niri-D55C44?style=for-the-badge&logo=niri&logoColor=white)](https://github.com/niri-wm/niri)
