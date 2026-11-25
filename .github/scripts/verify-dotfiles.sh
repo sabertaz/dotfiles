@@ -4,7 +4,6 @@ set -euo pipefail
 FILES=(
   "$HOME/.config/autostart/steam.desktop"
   "$HOME/.config/cava/config"
-  "$HOME/.config/chezmoi/chezmoi.toml"
   "$HOME/.config/DankMaterialShell/plugin_settings.json"
   "$HOME/.config/DankMaterialShell/settings.json"
   "$HOME/.config/DankMaterialShell/plugins/_shared/LyricsService.qml"
